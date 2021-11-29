@@ -11,4 +11,7 @@
   <img align="center" alt="Caio-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
    
  </div>
+  
+ <div>
   ![Snake animation](https://github.com/caiorodr/caiorodr/blob/output/github-contribution-grid-snake.svg)
+ </div>
