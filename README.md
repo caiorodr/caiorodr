@@ -20,8 +20,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
  </div>
-  
-  ##
-  
-  ![Snake animation](https://github.com/caiorodr/caiorodr/blob/output/github-contribution-grid-snake.svg)
-
